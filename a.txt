@@ -1,0 +1,2 @@
+welcome
+This is the first file created in git
